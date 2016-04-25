@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+}
+
+#canvas
+{
+    
+    display: block;
+    border: 2px, solid, border;
+    margin: auto;
+    background-image: url(Images/tumblr_noj0f7JwGr1uqzs6co1_500.gif);
+    
+}
+
+h1
+{
+    
+    text-align: center;
+}
